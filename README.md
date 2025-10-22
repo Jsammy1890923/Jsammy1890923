@@ -10,19 +10,20 @@ With dual majors in **Cybersecurity** and **Software Engineering**, I specialize
 
 ## 🚀 Current Projects
 
-### 🧠 NeuroXcelAI Platform
+### 🧠 NeuroXcelAI Platform  
 AI-powered automation and productivity platform. Built with Next.js, Tailwind CSS, GitHub Actions, and smart agents.  
 → `https://github.com/Jsammy1890923/NeuroXcelAI`
 
-### 🧬 Health Truth Book Series (13 titles)
-AI-assisted nonfiction publishing framework integrated with PubMed search, book scaffolding agents, and GitHub sync.  
+### 🏩 NeuroXcelAI Publishing House  
+Autonomous AI-powered publishing system managing multiple series including **Health Truth**, **Healing Grief**, and **BioElectric Blueprint**.  
+Features PubMed automation, GitHub-based book scaffolding, JSON-powered chapter structure, and agent-led formatting.  
 → `https://github.com/Jsammy1890923/NeuroXcelAi-Publishing`
 
-### 🤖 LaunchOps GPT
+### 🤖 LaunchOps GPT  
 Smart product launch automation. Tracks funnel status, SEO-readiness, and monetization progress using Obsidian + GitHub + GPT.  
 → `https://github.com/Jsammy1890923/launchops-system`
 
-### 🧭 NeuroSync Knowledge Base
+### 🧭 NeuroSync Knowledge Base  
 Structured automation documentation system for scaling projects with repeatable, intelligent workflows.  
 → `https://github.com/Jsammy1890923/neurosync-knowledgebase`
 
@@ -30,9 +31,9 @@ Structured automation documentation system for scaling projects with repeatable,
 
 ## ✨ Key Projects in Progress
 
-- **NeuroAssist (AI Agent Suite):** Smart assistant for internal knowledge, tutorial indexing, and guided workflows.
-- **Healing & Grief Writing Suite:** Creative nonfiction tools supporting emotional healing and expressive journaling.
-- **Bioelectric Blueprint Blog Series:** AI-assisted research archive and writing workflow for bioenergy-based wellness education.
+- **NeuroAssist (AI Agent Suite):** Smart assistant for internal knowledge, tutorial indexing, and guided workflows.  
+- **Healing & Grief Writing Suite:** Creative nonfiction tools supporting emotional healing and expressive journaling.  
+- **Bioelectric Blueprint Blog Series:** AI-assisted research archive and writing workflow for bioenergy-based wellness education.  
 - **Publishing/Agent System (300+ Agents):** Modular AI system for automation, formatting, publishing, editing, and monetization of book content.
 
 ---
@@ -79,4 +80,3 @@ Structured automation documentation system for scaling projects with repeatable,
 ---
 
 > 💡 “I believe technology should **uplift and empower**, not just automate.”
-
