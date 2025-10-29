@@ -1,4 +1,4 @@
-![Banner](https://github.com/Jsammy1890923/NeuroXcelAI/blob/main/assets/banner_neuroxcel.png)
+
 
 # 👨‍💻 John (Jason) Phillips — AI Engineer | Cybersecurity | Automation | Neurodiversity Advocate
 
