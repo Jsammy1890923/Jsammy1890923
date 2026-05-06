@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧠 John (Jason) Phillips  
-### AI Engineer • Cybersecurity Specialist • Automation Architect • Neurodiversity Advocate
+### AI Systems Developer • Automation Architect • Knowledge Infrastructure Builder • Neurodiversity Advocate
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Ethical+AI+Systems;Designing+Automation+that+Empowers+People;Cybersecurity+%2B+AI+%2B+Digital+Publishing;Founder+of+NeuroXcelAI;Technology+for+Human+Potential" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Applied+AI+Systems;Designing+Automation+that+Empowers+People;AI+Workflows+%2B+Knowledge+Architecture;Founder+of+NeuroXcelAI;Human-Centered+Technology+Systems" alt="Typing SVG" />
 
 <br>
 
@@ -23,163 +23,84 @@
 
 # 🌌 About Me
 
-I’m a multidisciplinary **AI engineer**, **automation architect**, and **cybersecurity professional** focused on building systems that combine:
+I’m a Computer Science student and applied AI systems builder focused on creating tools that combine:
 
 - 🧠 Artificial Intelligence  
-- ⚙️ Intelligent Automation  
-- 🔐 Cybersecurity  
-- 📚 Digital Publishing  
+- ⚙️ Workflow Automation  
+- 📚 Knowledge Infrastructure  
+- 🔐 Secure Software Thinking  
 - 🌱 Human-Centered Design  
 
-As the founder of **NeuroXcelAI**, I create scalable AI ecosystems that support:
+As the founder of **NeuroXcelAI**, I build AI-assisted systems for education, publishing, research, automation, and neurodiverse productivity.
 
-- education  
-- publishing  
-- research  
-- workflow automation  
-- neurodiverse productivity  
-- knowledge systems  
-
-My work blends technical depth with mission-driven innovation — designing tools that help people think clearer, create faster, and operate with less friction.
+My work focuses on turning complex workflows into structured, reusable systems that help people think clearer, create faster, and operate with less friction.
 
 > “Technology should amplify human potential — not replace human meaning.”
 
 ---
 
-# 🚀 Flagship Projects
+# 🎓 Education
 
-<table>
-<tr>
-<td width="50%">
+## Southern New Hampshire University  
+**Bachelor of Science — Computer Science**  
+**GPA:** 3.916
 
-## 🧠 NeuroXcelAI Platform
+### Current Focus Areas
 
-AI-powered productivity and automation ecosystem built with:
+- AI Systems & Automation
+- Secure Software Development
+- Database Systems
+- Software Testing & QA
+- Cloud-Native Workflows
+- Knowledge Architecture
 
-- Next.js
-- Tailwind CSS
-- GitHub Actions
-- AI agent workflows
-- scalable API integrations
+### Relevant Coursework
 
-### Focus
-Ethical AI systems for creators, researchers, and neurodiverse users.
-
-🔗 **Repository:**  
-https://github.com/Jsammy1890923/NeuroXcelAI
-
-</td>
-
-<td width="50%">
-
-## 📚 NeuroXcelAI Publishing House
-
-Autonomous AI-assisted publishing infrastructure managing:
-
-- Health Truth
-- Healing Grief
-- BioElectric Blueprint
-- educational AI content pipelines
-
-### Features
-- PubMed automation
-- AI formatting agents
-- JSON-based book scaffolding
-- GitHub publishing workflows
-
-🔗 **Repository:**  
-https://github.com/Jsammy1890923/NeuroXcelAi-Publishing
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🤖 LaunchOps GPT
-
-Intelligent launch automation platform for:
-
-- SEO readiness
-- monetization tracking
-- publishing pipelines
-- product deployment systems
-
-### Stack
-Obsidian + GitHub + GPT workflows
-
-🔗 **Repository:**  
-https://github.com/Jsammy1890923/launchops-system
-
-</td>
-
-<td width="50%">
-
-## 🧭 NeuroSync Knowledge Base
-
-Structured AI documentation architecture for scalable operations.
-
-### Capabilities
-- reusable automation systems
-- intelligent documentation
-- workflow indexing
-- operational knowledge management
-
-🔗 **Repository:**  
-https://github.com/Jsammy1890923/neurosync-knowledgebase
-
-</td>
-</tr>
-</table>
+- Programming Languages
+- Software Development Lifecycle
+- Python Scripting
+- Database Environments
+- Software Testing & QA
+- Operating Platforms
+- Software Security
+- Application Development
 
 ---
 
-# 🧪 Active R&D Systems
-
-| Project | Description |
-|---|---|
-| 🧠 **NeuroAssist** | AI assistant suite for guided workflows, indexing, and internal knowledge retrieval |
-| ✍️ **Healing & Grief Writing Suite** | Emotional healing + expressive writing tools powered by AI-assisted workflows |
-| ⚡ **BioElectric Blueprint** | AI-supported bioelectricity and wellness research archive |
-| 🤖 **300+ Agent Publishing System** | Large-scale modular AI publishing and automation ecosystem |
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Automation & Infrastructure
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Automation-blueviolet?style=for-the-badge)
-
-</div>
-
----
-
-# 🧠 Core Expertise
+# 🧭 Technical Focus
 
 ```yaml
-specializations:
-  - AI Automation Systems
-  - Cybersecurity & Ethical Hacking
-  - Agentic Workflow Architecture
-  - NLP & Knowledge Systems
-  - DevOps & GitHub Automation
-  - Educational Technology Platforms
-  - Digital Publishing Infrastructure
-  - Neurodiversity-Centered Tool Design
-  - Obsidian Knowledge Architecture
-  - Research & Data Workflow Automation
+focus_areas:
+  ai_systems:
+    - prompt engineering
+    - AI-assisted workflows
+    - agent orchestration concepts
+    - retrieval-augmented generation concepts
+    - applied automation systems
+
+  software_engineering:
+    - GitHub workflows
+    - structured documentation
+    - scalable project architecture
+    - testing and QA foundations
+    - software development lifecycle
+
+  infrastructure:
+    - automation pipelines
+    - deployment workflows
+    - cloud-native concepts
+    - DevOps foundations
+    - GitHub Actions
+
+  data_systems:
+    - database foundations
+    - knowledge architecture
+    - structured indexing
+    - information workflows
+    - documentation systems
+
+  human_centered_design:
+    - accessibility-minded systems
+    - neurodiversity-aware tooling
+    - ethical AI design
+    - learning support technologies
